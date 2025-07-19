@@ -1,1 +1,1 @@
-print("こんにちは、君は誰")
+print("fack")
