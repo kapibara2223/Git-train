@@ -1,0 +1,6 @@
+print("hello")
+print("hello")
+print("who are you.")
+print("I am somebody.And Who are you.")
+print("I am totem.")
+print("seeyou!!")
